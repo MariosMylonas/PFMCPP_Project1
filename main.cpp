@@ -116,13 +116,13 @@ athlete.run();
 //  action 3:  an athlete eats healthy
 athlete.eatHealthy();
 //  9)
-//  Noun:      mosquito
-//  action 1:  a mosquito flies
-mosquito.fly();
-//  action 2:  a mosquito stings
-mosquito.sting();
-//  action 3:  a mosquito drinks blood
-mosquito.drinkBlood();
+//  Noun:      senior developer
+//  action 1:  a senior developer attends meetings
+seniorDeveloper.attendMeeting();
+//  action 2:  a senior developer reviews code
+seniorDeveloper.reviewCode();
+//  action 3:  a senior developer develops algorithms
+seniorDeveloper.developAlgorithm();
 //  10)
 //  Noun:       composer
 //  action 1:   a composer composes
