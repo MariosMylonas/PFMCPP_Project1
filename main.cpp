@@ -118,11 +118,11 @@ athlete.eatHealthy();
 //  9)
 //  Noun:      senior developer
 //  action 1:  a senior developer attends meetings
-seniorDeveloper.attendMeetings();
+seniorDeveloper.attendMeeting();
 //  action 2:  a senior developer reviews code
 seniorDeveloper.reviewCode();
 //  action 3:  a senior developer develops algorithms
-seniorDeveloper.developAlgorithms();
+seniorDeveloper.developAlgorithm();
 //  10)
 //  Noun:       composer
 //  action 1:   a composer composes
