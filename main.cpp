@@ -108,13 +108,13 @@ director.decide();
 //  action 3:  a director plans
 director.plan();
 //  8)
-//  Noun:      athlete
-//  action 1:  an athlete trains
-athlete.train();
-//  action 2:  an athlete runs
-athlete.run();
-//  action 3:  an athlete eats healthy
-athlete.eatHealthy();
+//  Noun:      project manager
+//  action 1:  a project manager plans projects
+projectManager.planProject();
+//  action 2:  a project manager organizes the team
+projectManager.organizeTeam();
+//  action 3:  a project manager schedules meetings
+projectManager.scheduleMeeting();
 //  9)
 //  Noun:      senior developer
 //  action 1:  a senior developer attends meetings
